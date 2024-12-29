@@ -4,3 +4,4 @@ if a > b:
     print("%d is bigger than %d"%(a,b))
 else:
     print("%d is smaller than %d"%(a,b))
+print(a,b)
